@@ -1,0 +1,4 @@
+"Laravel Programming","This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.","images/laravel.png"
+".NET Programming","This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.","images/dot-net.png"
+"Spring Boot Programming","This is a longer card with supporting text below as a natural lead-in to additional content.","images/spring-boot.png"
+"Angular Programming","This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.","images/angular.png"
